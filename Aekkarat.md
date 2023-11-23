@@ -1,5 +1,5 @@
 # Aekkarat Jaichana
-## Aekkarat Jaichana
+## Computer Science
 ### Aekkarat Jaichana
 #### Aekkarat Jiachana
 ##### Aekkarat Jaichana
