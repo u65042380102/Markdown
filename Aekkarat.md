@@ -35,4 +35,4 @@ My Name is **Aekkarat**. <br>
 ---
 My favorite search engine is [Open Youtobe](https://www.youtube.com/).
 ---
-![My idol](https://www.google.com/url?sa=i&url=https%3A%2F%2Fkongruksiam.medium.com%2F&psig=AOvVaw2kt_KDumq2nzT_ux8yN41D&ust=1700796181816000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCMCA9NWV2YIDFQAAAAAdAAAAABAE)
+![My idol](kong.png)
