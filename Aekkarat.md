@@ -33,6 +33,6 @@ My Name is **Aekkarat**. <br>
     - Indented item
 - Fourth item
 ---
-My favorite search engine is [Open Youtobe](https://www.youtube.com/).
+My favorite search engine is [Open Youtube](https://www.youtube.com/).
 ---
 ![My idol](kong.png){width=300px height=300px}
